@@ -1,2 +1,2 @@
 # Fight
-A simple game write by Python
+A simple game write with Python
